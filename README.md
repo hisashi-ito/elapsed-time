@@ -4,7 +4,7 @@
 ### インストール方法
 関連ライブラリとして`dateutil`が必要
 ```
-pip install dateutil
+pip install python-dateutil
 ```
 ### 利用法
 ```
